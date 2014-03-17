@@ -1,5 +1,3 @@
-# I added this line in the workshop.
-
 readMod <- function(name=NULL){
   # readMod = readModel reads in the model name.dat and name.rep files
   if(is.null(name)){
